@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://localhost:55555/installapp?fileName=com.quarkdata.verify_1.0.0</string>
+            <string>http://127.0.0.1:55555/installapp?fileName=com.quarkdata.verify_1.0.0</string>
           </dict>
           <dict>
             <key>kind</key>
